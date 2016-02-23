@@ -1,6 +1,6 @@
-import 
-import
+from andela_21.fun import DEF
+from andela_21.learn import things_to_learn
 
-print fun.DEF
+print DEF
 
-print learn.things_to_learn
+print things_to_learn
